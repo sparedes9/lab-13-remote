@@ -16,6 +16,14 @@ p{
 	color:#ff00ff;
 }
 
+li{
+	color:white;
+}
+
+td{
+	color:#ff00ff;
+}
+
 .active{
 	background-color: black;
 }
